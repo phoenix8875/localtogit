@@ -1,2 +1,2 @@
 this is text file\
-new changes for feature 1
+new changes for main
